@@ -9,6 +9,7 @@
 * [Insights](#insights)
 * [Status](#status)
 * [Contact](#contact)
+* [Data Source](#data-source)
 * [Readme Credits](#readme-credits)
 
 ## General info
@@ -48,6 +49,9 @@ Project is: _finished_
 
 ## Contact
 Created by [@kemuelG]
+
+## Data Source
+IBM HR Analytics Employee Attrition & Performance (2017). Retrieved Feb 13, 2020 from https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 
 ## Readme credits
 ritaly  https://github.com/ritaly/README-cheatsheet
