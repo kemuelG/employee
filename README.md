@@ -28,13 +28,7 @@ The project is part of the requirement for DATA 1282 - Data Analysis Tools for A
 5. Download final aggregated data from (4) and create 2 visuals (dashboard and histogram as seen in xlsx file in reports directory)
 
 ## Directory structure
-Directory: <br />
-Employee (repo) <br /> 
-&nbsp;&nbsp;&nbsp; * data (folder) <br />
-&nbsp;&nbsp;&nbsp; * munge (folder) <br />
-&nbsp;&nbsp;&nbsp; * src (folder) <br />
-&nbsp;&nbsp;&nbsp; * reports (folder) <br /> 
-README.md
+![Directory structure of repo](./img/directory.jpg)
 
 ## Insights
 Summary of insights found from analysis
